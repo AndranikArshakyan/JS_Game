@@ -1,1 +1,1 @@
-# JS_Game
+# Simple js game
